@@ -1,0 +1,135 @@
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\Cadastro e Login.exe.config
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\Cadastro e Login.exe
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\Cadastro e Login.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro_e_Login.Properties.Resources.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.exe
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro_e_Login.Login.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro_e_Login.Apresentação.Cadastrar.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro_e_Login.Apresentação.Tela_inicial.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\Google.Protobuf.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\MySql.Data.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Buffers.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.IO.Pipelines.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Memory.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\ZstdSharp.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\Google.Protobuf.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\Google.Protobuf.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\MySql.Data.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Buffers.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.IO.Pipelines.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Memory.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro.9843E792.Up2Date
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\Cadastro e Login.exe.config
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\Cadastro e Login.exe
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\Cadastro e Login.pdb
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\Google.Protobuf.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\MySql.Data.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Buffers.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.IO.Pipelines.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Memory.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Numerics.Vectors.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\ZstdSharp.dll
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\Google.Protobuf.pdb
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\Google.Protobuf.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\MySql.Data.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Buffers.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.IO.Pipelines.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Memory.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Numerics.Vectors.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.AssemblyReference.cache
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro_e_Login.Apresentação.Cadastrar.resources
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro_e_Login.Login.resources
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro_e_Login.Apresentação.Tela_inicial.resources
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro_e_Login.Properties.Resources.resources
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.GenerateResource.cache
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.CoreCompileInputs.cache
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro.9843E792.Up2Date
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.exe
+D:\Projeto GitHub\Cadastro e Login\Cadastro e Login\obj\Debug\Cadastro e Login.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\Cadastro e Login.exe.config
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\Cadastro e Login.exe
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\Cadastro e Login.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\Google.Protobuf.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\MySql.Data.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Buffers.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.IO.Pipelines.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Memory.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\ZstdSharp.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\Google.Protobuf.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\Google.Protobuf.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\MySql.Data.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Buffers.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.IO.Pipelines.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Memory.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro_e_Login.Apresentação.Cadastrar.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro_e_Login.Login.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro_e_Login.Apresentação.Tela_inicial.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro_e_Login.Properties.Resources.resources
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro e Login.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro.9843E792.Up2Date
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro e Login.exe
+C:\Users\erick\OneDrive\Área de Trabalho\Cadastro e Login\Cadastro e Login - v2\Cadastro e Login\obj\Debug\Cadastro e Login.pdb
