@@ -12,8 +12,11 @@ Para que o projeto funcione corretamente, é necessário configurar a conexão c
 No arquivo Conexao.cs, você pode alterar os dados conforme o seu ambiente local:
 
 private const string servidor = "localhost";
+
 private const string bancoDados = "db_cadastrologin";
+
 private const string usuario = "root";
+
 private const string senha = "";
 
 
